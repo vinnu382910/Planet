@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.slider-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png ');
+  padding: 40px;
+  text-align: center;
+  color: #05acff;
+  font-family: Roboto;
+  font-weight: bold;
+}

@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.planet-cont {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-weight: bold;
+  color: #fff;
+  font-size: 22px;
+}
+
+h {
+  color: #f8fafc;
+}
+
+p {
+  color: #f1f5f9;
+}
+
+.planet-image {
+  height: 300px;
+  width: 350px;
+}
